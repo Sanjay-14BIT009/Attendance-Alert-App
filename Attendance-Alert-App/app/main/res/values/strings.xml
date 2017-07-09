@@ -1,0 +1,1375 @@
+<resources>
+    <string name="app_name">Android_App_attendance_Alerts</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="title_activity_calendar">Calendar</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_login">Login</string>
+    <string name="username_text">username</string>
+    <string name="password_text">password</string>
+    <string name="Login_text">LOG IN</string>
+    <string name="logo_text">A3</string>
+    <string name="calendar_text">View Academic Calendar</string>
+    <string name="help_text">Need Help?</string>
+    <string name="register_text">Register Here !!!</string>
+    <string name="RePWD_text">Confirm Password :</string>
+    <string name="save_text">SAVE</string>
+    <string name="reset_text">RESET</string>
+    <string name="PWD_text">Enter Password :</string>
+    <string name="ID_text">ID NO. :</string>
+    <string name="new_username_text">User Name :</string>
+    <string name="new_register_text">New Registration</string>
+    <string name="features_text">App Specifications</string>
+    <string name="about_text">About</string>
+    <string name="logo1_text">A3</string>
+    <string name="use_text">How To Use?</string>
+    <string name="title_activity_how_to_use">How_to_use</string>
+    <string name="title_activity_app_features">App_features</string>
+    <string name="title_activity_about">About</string>
+    <string name="logo2_text">A3</string>
+    <string name="name_text">APP Name:</string>
+    <string name="a3_text">Android Application For attendance Alerts</string>
+    <string name="guide_text">Guided By,</string>
+    <string name="zn_text">Prof. Zunnun Narmawala</string>
+    <string name="design_text">Designed By,</string>
+    <string name="sanjay_text">Sanjay Chandlekar(14BIT009)</string>
+    <string name="darpan_text">Darpan Patel(14BIT010)</string>
+    <string name="darshan_text">Darshan Patel(14BIT033)</string>
+    <string name="logo4_text">A3</string>
+    <string name="support_text">This app supports any android device having OS greater than android 2.2 (Froyo) API 8.</string>
+    <string name="key_text">Key Features</string>
+    <string name="simple_text">A3 provides a simple and efficient way to keep track of daily attendance and receive notifications in order to make user present on time.</string>
+    <string name="AC_text"># Academic Calendar of University</string>
+    <string name="set_text"># Set holidays and Leaves on Calander</string>
+    <string name="can_text"># Can be used by any Faculty of NU</string>
+    <string name="p_protect_text"># Password Protectet the APP</string>
+    <string name="smooth_text"># Simple and Smooth UI</string>
+    <string name="logo5_text">A3</string>
+    <string name="one_text">1. For the first time users have to register theirselves with their Name, ID No. and unique password to protect their account.</string>
+    <string name="two_text">2. After registration user can login to his/her account and can view attaendance history, can receive notifications and set holidays and leaves on academic calendar.</string>
+    <string name="three_text">3. Without registration or login, user can only able to see academic calendar of university.</string>
+    <string name="four_text">4. For resolve any problem about the app user can contact help.</string>
+    <string name="specifications_text">Specifications</string>
+    <string name="title_activity_specifications">Specifications</string>
+    <string name="Logout_text">Logout</string>
+    <string name="logout_text">Log out</string>
+    <string name="LogOut_text">Log Out</string>
+    <string name="time_text">Set Time</string>
+    <string name="date_text">Set Date</string>
+    <string name="notify_text">Notify me !!</string>
+    <string name="alarm_off.text">ALARM OFF</string>
+    <string name="alarm_on">ALARM ON</string>
+    <string-array name="Faculty_Names">
+        <item></item>
+        <item>AAGJA  JAYESH  PANKAJBHA</item>
+        <item>ABHIJIT K BORAH</item>
+        <item>ACHARYA KETAN NATVARLAL</item>
+        <item>ACHARYA NIYATI SANJEEV</item>
+        <item>ACHARYA SANJEEV RAMESHCH</item>
+        <item>ADHYARU DIPAK MUKUNDRAY</item>
+        <item>AGRAWAL KEDAR PRASAD RAM</item>
+        <item>AGRAWAL SMITA SURESHKUMA</item>
+        <item>AHUJA GEETA ASHOKRAJ</item>
+        <item>AJAY A PANCHAL</item>
+        <item>AJAY B CHAUDHARI</item>
+        <item>AJAY C TRIVEDI</item>
+        <item>AJAY NIHALSINGH HARDWARI</item>
+        <item>AJAY R NINAMA</item>
+        <item>AJAY THAKOR</item>
+        <item>AJAYBHAI  K  DESAI</item>
+        <item>AJIT RAM PRAKESH SINGH</item>
+        <item>AJITBHAI G DESAI</item>
+        <item>AJMALJI S THAKOR</item>
+        <item>AKSHY V PARMAR</item>
+        <item>ALPESH BHAVSAR</item>
+        <item>Alpesh patel</item>
+        <item>ALPIT UPENDRA PARIKH</item>
+        <item>AMARJIT DARSHAN SINGH</item>
+        <item>AMARNANI NEERAJ HOTCHAND</item>
+        <item>AMATHIBEN S THAKOR</item>
+        <item>AMBANI MANISHKUMAR VITTH</item>
+        <item>AMIN AMIT PIYUSHBHAI</item>
+        <item>Amit Kumar Kashyap</item>
+        <item>AMIT R  THAKOR</item>
+        <item>AMIT T PURABIYA</item>
+        <item>AMITA CHAUDHARY</item>
+        <item>Amola Shahir Bhatt</item>
+        <item>AMRATBHAI B DESAI</item>
+        <item>AMRATGI SAG GI</item>
+        <item>AMROLIA HORMAZ Z.</item>
+        <item>AMRUT  S  DESAI</item>
+        <item>AMRUT BASUSHAI TOLIYAR</item>
+        <item>AMRUT T RABARI</item>
+        <item>AMRUTAND N THAKOR</item>
+        <item>ANAND G PATEL</item>
+        <item>ANIL A MAKVANA</item>
+        <item>ANIL I THAKOR</item>
+        <item>ANIL J GADHIYA</item>
+        <item>Anil singh yadav</item>
+        <item>ANITHA ALAMPAT ASHISHDEE</item>
+        <item>ANJANABEN H NAYAK</item>
+        <item>ANJNABEN R THAKOR</item>
+        <item>ANKIT MAGAGI</item>
+        <item>ANTIMA DAYARAM</item>
+        <item>Anu Goyal</item>
+        <item>ARJANBHAI K VAGHELA</item>
+        <item>ARORA NEERAJ KEWALKUMAR</item>
+        <item>ARUN J VAGHELA</item>
+        <item>ARVINDBHAI C PRAJAPATI</item>
+        <item>ARVINDJI  A  THAKOR</item>
+        <item>ASHABEN K MODIYA</item>
+        <item>ASHOK C PATEL</item>
+        <item>ASHOK J BOYAT</item>
+        <item>ASHOKBHAI C THAKOR</item>
+        <item>ASHOKGI GANESHGI THAKOR</item>
+        <item>ASHVINKUMAR D RATHOD</item>
+        <item>ATUL V PATEL</item>
+        <item>ATULBHAI  R  SHRIMALI</item>
+        <item>AVADHASH SINGH</item>
+        <item>AVADHKISHORE YADAV</item>
+        <item>AVNIKABEN S PARMAR</item>
+        <item>AWASTHI ASHWINIKUMAR P.L</item>
+        <item>BABARBHAI KAGSHIBHAI</item>
+        <item>BABU BHAI PANDYA</item>
+        <item>BABU BHAI PARMAR</item>
+        <item>BABU N.S</item>
+        <item>BABUBAHI S SOLANKI</item>
+        <item>BABUBHAI  K  PANDOR</item>
+        <item>BABUBHAI B DESAI</item>
+        <item>BABUBHAI M THAKOR</item>
+        <item>BACHARGI BHAVANSIGH</item>
+        <item>BACHUBHAI M VAGHELA</item>
+        <item>BAGGA PRASHANT JAGDISHCH</item>
+        <item>BAHADURSINH R THAKOR</item>
+        <item>BAHUGUNA SHALINI</item>
+        <item>BAID DEVESH SUBHASHCHAND</item>
+        <item>BAKOTIA MEET DEEPAKKUMAR</item>
+        <item>BAKSHI SONAL RAJIV</item>
+        <item>BALDEV PASABHAI VAGHELA</item>
+        <item>BALDEV T RABARI</item>
+        <item>BALDEVBHAI G DESAI</item>
+        <item>BALDEVGI VEGHALA</item>
+        <item>BALUBEN L SHENVA</item>
+        <item>BAROT JIGAR JAYANTILAL</item>
+        <item>BAROT RAMESHCHANDRA</item>
+        <item>BAROT RITA SARAVAGNA</item>
+        <item>BAROT RONAK BALKRISHNABH</item>
+        <item>BARRIYA BHAKHIBHAI  GADA</item>
+        <item>BARVE JAYESHKUMAR JAYANA</item>
+        <item>BELANI NEELAM TEJAS</item>
+        <item>BHADADA SHRADDHA VIKAS</item>
+        <item>BHADRESH S VAGHELA</item>
+        <item>BHAGAT PRIYANKA HIMANSHU</item>
+        <item>BHAGATSINH L DODIYA</item>
+        <item>BHAGI  AMITBHAI MAHESHBH</item>
+        <item>BHAGI HASHABEN MAHESHBHA</item>
+        <item>BHAGI MAHESH SHANABHAI</item>
+        <item>BHAGVATIBEN M CHAUHAN</item>
+        <item>BHAMABHAI S DESAI</item>
+        <item>BHANUBEN P BHANGI</item>
+        <item>BHARAT M VANKAR</item>
+        <item>BHARAT PANDYA</item>
+        <item>BHARAT T PRAJAPATI</item>
+        <item>BHARAT UDAJI THAKOR</item>
+        <item>BHARATBHAI G RABARI</item>
+        <item>BHARATBHAI SHADHU</item>
+        <item>BHARATKUMAR L DESAI</item>
+        <item>BHARAVAD BHAGIRATHBHAI K</item>
+        <item>BHARTGI K THAKOR</item>
+        <item>BHARTGI UMADGI THAKOR</item>
+        <item>BHARTIBEN D PARMAR</item>
+        <item>BHARTSIGH R MAKVANA</item>
+        <item>BHATASANA PIYUSH MAGANBH</item>
+        <item>BHATI PARUL PADAMSINH</item>
+        <item>BHATIA JITENDRA BHAGWAND</item>
+        <item>BHATNAGAR ALOK NANDGOPAL</item>
+        <item>BHATT ANAND AMBAPRASAD</item>
+        <item>BHATT ATUL ASHOKBHAI</item>
+        <item>BHATT BHADRESH SHASHIKAN</item>
+        <item>BHATT CHANKYA  BHARATBHA</item>
+        <item>BHATT CHIRAG SHAMBHUPRAS</item>
+        <item>BHATT DIPAK KANAKKUMAR</item>
+        <item>BHATT DIVYA KIRITKUMAR</item>
+        <item>BHATT DVIJESH NARESHKUMA</item>
+        <item>BHATT GUNJAN BHIKHUBHAI</item>
+        <item>BHATT HARDIK GIRISHKUMAR</item>
+        <item>BHATT MAULIK</item>
+        <item>BHATT NITYESH AKSHAYAKUM</item>
+        <item>BHATT TARAK KIRITBHAI</item>
+        <item>BHATT TEJAS SHAMBHUPRASA</item>
+        <item>Bhavesh Baloliya</item>
+        <item>BHAVESH D PRAJAPATI</item>
+        <item>BHAVESH JAYRAMBHAI RAVAL</item>
+        <item>BHAVESHBHAI  S  THAKOR</item>
+        <item>Bhavin Joshi</item>
+        <item>BHAVNABEN A MAKVANA</item>
+        <item>BHAVSAR MADHURI DASHRATH</item>
+        <item>BHAVSAR NILESH HASMUKHLA</item>
+        <item>BHAVSAR SACHI VINODKUMAR</item>
+        <item>BHAVSAR SNEHAL RAJESHKUM</item>
+        <item>BHAVSAR TWINKLE KUSHALKU</item>
+        <item>BHAVSAR VAISHALI BANSILA</item>
+        <item>BHIKA VANKAR</item>
+        <item>BHIKHABHAI DESAI</item>
+        <item>BHOJAWALA VIPULKUMAR MAN</item>
+        <item>BHUPATBHAI M THAKOR</item>
+        <item>BHUPENDRA K THAKOR</item>
+        <item>BHURIBEN B BAMANIYA</item>
+        <item>BHUVA SHREYAS PREMJIBHAI</item>
+        <item>BIPIN D PATEL</item>
+        <item>BORA LEENA VIJAYKUMAR</item>
+        <item>BRAHMBHATT ARVINDBHAI CH</item>
+        <item>BRIJKISHOR S YADAV</item>
+        <item>BUCH GAURANG BIPINCHANDR</item>
+        <item>BUTANI SHITAL BHAVIN</item>
+        <item>C GOPALKRISHANAN</item>
+        <item>CHADHA ANUJ RAKESHKUMAR</item>
+        <item>CHAITSIBEN RAVAL</item>
+        <item>CHANDANSINGH D RAJPUT</item>
+        <item>CHANDNANI ASHITA</item>
+        <item>CHANDRA REKHAR SHARMA</item>
+        <item>CHANDRIKABEN M VEGHELA</item>
+        <item>CHATAN RAMESHBHAI THAKOR</item>
+        <item>CHATTERJEE MONALI S.</item>
+        <item>CHATURVEDI MANISH SHIVSA</item>
+        <item>CHAUDHARY NITESH SURENDR</item>
+        <item>CHAUHAN CHETNA CHATURBHA</item>
+        <item>CHAUHAN FALGUNI BHAGYESH</item>
+        <item>CHAUHAN KANTABEN MOHANBH</item>
+        <item>CHAUHAN MIHIR MAHENDRABH</item>
+        <item>CHAUHAN MOHMADSAJID MOSA</item>
+        <item>CHAUHAN REKHABEN RAJENDR</item>
+        <item>CHAVADA GOVEDBHAI POPATG</item>
+        <item>CHAVDA HARICHANDRASINH J</item>
+        <item>CHELABHAI J CHAUDHARY</item>
+        <item>CHHAGAN K DESAI</item>
+        <item>CHHAYA DHRUVKUMAR PRAVIN</item>
+        <item>CHHAYA LIPI KIRITBHAI</item>
+        <item>CHHTRAPATI DEVANGKUMAR N</item>
+        <item>Chirag Gajjar</item>
+        <item>CHOKSHI NIKITA PIYUSHKUM</item>
+        <item>CHOKSI RIDDHI RAJESHKUMA</item>
+        <item>CHORARIA SAPNA PRAKASH</item>
+        <item>CHOTAI HANI LALITBHAI</item>
+        <item>CHOUDHARY RACHNA</item>
+        <item>CHRISTIAN ANAND NAVINCHA</item>
+        <item>CHUDASAMA VIPUL HASMUKHL</item>
+        <item>CHUDASMA PRADIPSINH ANIR</item>
+        <item>CHUGAN PAWANKUMAR GOBIND</item>
+        <item>DABHI JAYA MOHANBHAI</item>
+        <item>DADHICH ABHISHEK JAGDISH</item>
+        <item>DAHYABHAI M PANCHAL</item>
+        <item>DALAI SARAT KUMAR NARAYA</item>
+        <item>DALSHUKH C KABIRA</item>
+        <item>DALWADI HEMANG AMRUTLAL</item>
+        <item>DANAK DEEPAKKUMAR JAYKRI</item>
+        <item>DANGER DEBASIS SEPHAL</item>
+        <item>Dangi Jignesh</item>
+        <item>DANGI JIGNESH JASVANTBHA</item>
+        <item>DARBAR MEHESH S</item>
+        <item>DARJI ALKA KETAN</item>
+        <item>DARJI KULDEEP SANTILAL</item>
+        <item>DARJI VIPUL SITARAM</item>
+        <item>Darshan Ajudia</item>
+        <item>DAS MILI</item>
+        <item>DASHRATH G PRAJAPATI</item>
+        <item>DASHRATH T THAKOR</item>
+        <item>DASRATHBHAI  D   PATEL</item>
+        <item>DASRATHBHAI GADABHAI</item>
+        <item>DASRATHBHAI PRAJAPATI</item>
+        <item>DASRATHBHAI V RABARI</item>
+        <item>DASRATHGI M THAKOR</item>
+        <item>DASRATHGI UDAGI THAKOR</item>
+        <item>DATT RAJAN PRATAPRAI</item>
+        <item>DAVE BRIJESH PIYUSHBHAI</item>
+        <item>DAVE DATTATRAY BAPULAL</item>
+        <item>DAVE GAURAV PRAFULCHANDR</item>
+        <item>DAVE HEENA</item>
+        <item>DAVE JATINKUMAR MAHESHKU</item>
+        <item>DAVE NIMISH JITENDRA</item>
+        <item>DAVE NISHA BHARATKUMAR</item>
+        <item>DAVE SAMIR SURESHBHAI</item>
+        <item>DAVE URMIL VATSALBHAI</item>
+        <item>DEEPAK KUMAR SINGH</item>
+        <item>DEEPAKBHAI KHAPDA</item>
+        <item>DEGADA AMITKUMAR DALPATR</item>
+        <item>DESAI ASHISH KANTILAL</item>
+        <item>DESAI DILIP HARILAL</item>
+        <item>DESAI SHIVANI DINESHBHAI</item>
+        <item>DESAI VALJIBHAI</item>
+        <item>DESAI VIKRAM</item>
+        <item>DESAI VIKRAM</item>
+        <item>DESHPANDE SATISH</item>
+        <item>DEVASHRAYEE NIRANJAN MAN</item>
+        <item>DEVILAL  JOGI</item>
+        <item>DEVRAJBHAI DESAI</item>
+        <item>DEVRAJBHAI K RABARI</item>
+        <item>DHANAJI P THAKOR</item>
+        <item>DHARANGUTTI YOGESH MADAN</item>
+        <item>DHARE VAISHALI HITESH</item>
+        <item>DHARMENDRA N VAGHELA</item>
+        <item>DHARMENDRA R BARIA</item>
+        <item>Dharmendra Yadav</item>
+        <item>DHARMESH  B  PASI</item>
+        <item>DHARMSIGH G DESAI</item>
+        <item>DHARMSIGH N DESAI</item>
+        <item>DHAVAL CHAUHAN</item>
+        <item>DHAVAL JOSHI</item>
+        <item>DHERMENDAKUMAR S PATEL</item>
+        <item>Dhiren Jotwani</item>
+        <item>DHIREN K. RATHOD </item>
+        <item>Dhiren Panchal</item>
+        <item>DHOLAKIYA VIHANG MUKULCH</item>
+        <item>DIDWANIA ANKIT SUBHASH</item>
+        <item>DILIP  S  PANDY</item>
+        <item>DILIP CHAMNGI</item>
+        <item>DILIP RAMESHBHAI CHAUHAN</item>
+        <item>DILIPBHAI L VEGHELA</item>
+        <item>DILIPGI ATAGI</item>
+        <item>DILIPKUMAR P NAYAK</item>
+        <item>DINAGI GALABGI THAKOR</item>
+        <item>DINESH BHOPAJI THAKOR</item>
+        <item>DINESH N DESAI</item>
+        <item>DINESH SHREEMALI</item>
+        <item>DINESHBHAI  N  PRAJAPATI</item>
+        <item>DINESHBHAI M DESAI</item>
+        <item>DINESHGI KALAGI THAKOR</item>
+        <item>DIPABHAI M RABARI</item>
+        <item>DIPAK S FULANI</item>
+        <item>DIPEK KUMAR PATEL</item>
+        <item>DOBARIYA DIVYA</item>
+        <item>Doshi Monali</item>
+        <item>Doshi Sachin</item>
+        <item>DOSHIT YOGESH MANHARLAL</item>
+        <item>DR. KUNAL GHOSH</item>
+        <item>DR.KAMAL K. MEHTA</item>
+        <item>DR.N.K.INDRAYAN</item>
+        <item>DR.RAM NIWAS SHARMA</item>
+        <item>DURGABEN M DAMOR</item>
+        <item>DUTT VIJAYKUMAR DASHARAT</item>
+        <item>DUTTA SWARUP KUMAR</item>
+        <item>DWIVEDI ANKUR HARSHADBHA</item>
+        <item>ESASHVERBHAI L DESAI</item>
+        <item>FADIA KETAN NIRANJAN</item>
+        <item>FATANIYA BHUPENDRA DAMJI</item>
+        <item>FULTARIYA MAYUR AMRUTLAL</item>
+        <item>G.RAMACHANDRAN NAIR</item>
+        <item>GADHAVI LATABEN JASVANTD</item>
+        <item>GAJJAR NAGENDRA PRAKASHB</item>
+        <item>GAJJAR RUCHI INDRAVADAN</item>
+        <item>GAJJAR SACHIN HARISHBHAI</item>
+        <item>GANDHI ASHISH CHANDRAKAN</item>
+        <item>GANDHI DIPAL MAHENDRABHA</item>
+        <item>GANDHI TEJAS BHARATBHAI</item>
+        <item>GARG SANJAY MADANLAL</item>
+        <item>GAURANG M SURYAVALA</item>
+        <item>GAURAV YADAV</item>
+        <item>GAUTAM B GOSWAMI</item>
+        <item>GAUTAMBHAI K SOLANKI</item>
+        <item>GAVRANG GI UMADGI</item>
+        <item>Geetha Shivaji</item>
+        <item>GEHANI ARTI KISHOR</item>
+        <item>GHATE MANJUNATH MADHUVOB</item>
+        <item>GHETIYA NILESH DHIRAJLAL</item>
+        <item>GIRESHAMBALAL THAKOR</item>
+        <item>GIRISH  S  KALASUVA</item>
+        <item>GODWAL SHANKER DALCHAND</item>
+        <item>GOHIL ASHISH MULCHAND</item>
+        <item>GOHIL ATULKUMAR GUNVANTR</item>
+        <item>GOHIL YAGNADEEPSINH</item>
+        <item>GOJIYA MAYUR VAJASHLBHAI</item>
+        <item>GOPALBHAI A PATEL</item>
+        <item>GOPALRAM SUTHAR</item>
+        <item>GORI SAIRA SIRAJ</item>
+        <item>GOSAI RAMESHPURI MANIPUR</item>
+        <item>GOSALIA HEENA MILAN</item>
+        <item>GOSWAMI DEBAPRIYA</item>
+        <item>GOSWAMI VIRENDRAKUMAR SH</item>
+        <item>GOVINDBHAI P VAGHELA</item>
+        <item>GUMAN SINGH</item>
+        <item>GUPTA BINDIYA VAID</item>
+        <item>GUPTA MONIKA DWARKAPRASA</item>
+        <item>GURU SUNITA</item>
+        <item>HANSABEN M SOLANKI</item>
+        <item>HARDIK S VAGHELA</item>
+        <item>HARESH G PARMAR</item>
+        <item>HARESHBHAI R BAROT</item>
+        <item>HARIGAN NAGINBHAI CHATUR</item>
+        <item>HARIJAN GITTABEN NAGINBH</item>
+        <item>HARIJAN JAVABEN NAGINBHA</item>
+        <item>HARISH G PARMAR</item>
+        <item>HARSHADJI P THAKOR</item>
+        <item>HARSHEDBHAI K THAKOR</item>
+        <item>HASHABEN B RAVAT</item>
+        <item>HASHMUKHBHAI THAKAR</item>
+        <item>HASMUKHBHAI  C  CHAUHAN</item>
+        <item>Heliben Patel</item>
+        <item>HEMALATTABEN B SOLANKI</item>
+        <item>HEMANT M. KAMPLIMATH</item>
+        <item>HIRA G BHATI</item>
+        <item>HIRPARA KEYUR P.</item>
+        <item>HITESH A VAGHELA</item>
+        <item>HITESH DINESHBHAI SHAH</item>
+        <item>HITESH H MEHATA</item>
+        <item>ISHAN BHAVSAR</item>
+        <item>IYER GAYATRI SHANKAR</item>
+        <item>IYER SATHVIK SURESHKUMAR</item>
+        <item>IYER VARADHARAJAN VENKAT</item>
+        <item>JACOB GEORGE</item>
+        <item>JADAV DINA BALVANTSINHJI</item>
+        <item>JADEJA SAHDEVSINH MANUBH</item>
+        <item>JAGAD PANKAJ</item>
+        <item>jagannath singh</item>
+        <item>JAGDISH R VAGHARI</item>
+        <item>JAHIRUL ISLAM</item>
+        <item>JAIN CHITTAL JAYESH</item>
+        <item>JAIN PARAS NIRMALBHAI</item>
+        <item>JAIN RAJESHKUMAR N.C.</item>
+        <item>JAIN SANJAY A L JAIN</item>
+        <item>JAIN SANJAY VIRENDRA</item>
+        <item>JAIN SWATI MANISH</item>
+        <item>JAINI KRISHAN KUMAR DAYA</item>
+        <item>JALUBHAI V RABARI</item>
+        <item>JAMAGI C THAKOR</item>
+        <item>JAMES TELGY</item>
+        <item>JANAKBHAI S RAVAL</item>
+        <item>JANI KRUSHANKANT RAVISHA</item>
+        <item>JANI PRATIK ANILBHAI</item>
+        <item>JANI SWAPNIL NALINKUMAR</item>
+        <item>JARAMBHAI L DESAI</item>
+        <item>JASAGI B THAKOR</item>
+        <item>JASHWANT  R  PARMAR</item>
+        <item>JASODABEN M VASAVA</item>
+        <item>JASUBHAI H DESAI</item>
+        <item>JAVANGI ATAGI THAKOR</item>
+        <item>JAY DINESHBHAI RAJPUT</item>
+        <item>JAY PRAKESH SINGH</item>
+        <item>JAYABEN K VAGHELA</item>
+        <item>JAYABEN U THAKOR</item>
+        <item>JAYESH N PATEL</item>
+        <item>JAYNTIBHAI B THAKOR</item>
+        <item>JAYNTIBHAI M PRAJAPATI</item>
+        <item>JAYTIGI A THAKOR</item>
+        <item>JHA BRAJESH KUMAR NAVONA</item>
+        <item>JHA DHAVAL SHARAD</item>
+        <item>JHA RANIKUMARI NIRAJKUMA</item>
+        <item>JHANSI LAKSHMI KISHORE</item>
+        <item>JHAVERI CHETAN ARVINDBHA</item>
+        <item>JIGNESH D BHANGI</item>
+        <item>JITENDRA  D  RAWAL</item>
+        <item>Jitendra Gadhvi</item>
+        <item>JITENDRA K CHAUHAN</item>
+        <item>JITENDRA KUMAR PANDAV</item>
+        <item>Jitendra Yadav</item>
+        <item>JITRANDRA M DESAI</item>
+        <item>JITUBHAI N PATEL</item>
+        <item>JOSHI ABHIJAT SUBHASHCHN</item>
+        <item>JOSHI AMRUTA CHAITANYA</item>
+        <item>JOSHI DHARA KRUSHAN</item>
+        <item>JOSHI DIGESH DILIPKUMAR</item>
+        <item>JOSHI HARDIK YOGESHBHAI</item>
+        <item>JOSHI JAIMIN NARAYANDAS</item>
+        <item>JOSHI KASHYAP</item>
+        <item>JOSHI NARAYAN ARVINDKUMA</item>
+        <item>JOSHI PRAFULKUMAR KAUSHI</item>
+        <item>JOSHI SHASHIKANT JAGMITR</item>
+        <item>JOSHI TEJAS MUKUNDBHAI</item>
+        <item>JOSHI TRIPURASUNDARI PAN</item>
+        <item>JOSHIPURA MILIND HIMKARB</item>
+        <item>JUHAJI K THAKOR</item>
+        <item>JYOTISHI VAHIYABHAI</item>
+        <item>K.Ambika</item>
+        <item>KADIBEN SOMABHAI BAMNIYA</item>
+        <item>KADRI RAFIKUDDIN AMIRUDD</item>
+        <item>KAILESHBEN I HARIJAN</item>
+        <item>KALABHAI M RABARI</item>
+        <item>KALAGI SURANGGI THAKOR</item>
+        <item>KALPESH A BANKAR</item>
+        <item>KALPESH A PARMAR</item>
+        <item>KALPESHBHAI R  AACHARYA</item>
+        <item>KAMJIBHAI R BAMANIYA</item>
+        <item>KAMLESH GI PRAHELADGI TH</item>
+        <item>KAMLESH P VALMIKI</item>
+        <item>KAMLESH PATEL</item>
+        <item>KAMLESHBHAI A PATEL</item>
+        <item>KAMLESHBHAI SHADHU</item>
+        <item>KAMUBEN N CHAUHAN</item>
+        <item>KANABEN JYOTYABHAI KHARA</item>
+        <item>KANAGI KALAGI</item>
+        <item>KANAIYAL A VALAND</item>
+        <item>KANAK BEV</item>
+        <item>KANDYA ANURAG ASHOK</item>
+        <item>KANHIGA KUMAR</item>
+        <item>KANOJIA SARIKA PRAKASH</item>
+        <item>KANSARA PURVI MAHESH</item>
+        <item>KANTABEN BHABHOR</item>
+        <item>KANTIBHAI  J  PATEL</item>
+        <item>KANTIBHAI K PRAJAPATI</item>
+        <item>KANTIBHAI L MAKAVANA</item>
+        <item>KANTIGI J PARMAR</item>
+        <item>KANUBHAI G PATEL</item>
+        <item>KANUBHAI M DESAI</item>
+        <item>KANUBHAI N RENTIYA</item>
+        <item>KANUBHAI R DESAI</item>
+        <item>KANUGI UMEDGI THAKOR</item>
+        <item>KAPADIA HARSH  KHODIDAS</item>
+        <item>KAPDI RUPAL AMIT</item>
+        <item>KARAN B VAGHELA</item>
+        <item>KARANSINH  B  DABHI</item>
+        <item>KARSHANBHAI N JADAV</item>
+        <item>KARSHANBHAI R VAGHELA</item>
+        <item>KASHYAP SARITA</item>
+        <item>KATANBHAI  C  PATHAK</item>
+        <item>KATHIRIA PREETI VIPUL</item>
+        <item>KHADALIA VIVEK SHANTILAL</item>
+        <item>KHADALIYA PRAKASHKUMAR A</item>
+        <item>KHALPADA KRUTI NARENDRAB</item>
+        <item>KHANPARA PIMAL SHANTILAL</item>
+        <item>KHODABHAI BABUBHAI PATEL</item>
+        <item>KHOKHANI DHIRAJLAL NARAN</item>
+        <item>KHURANA NISHA VIVEK</item>
+        <item>KIKANI SACHIN VINAYKUMAR</item>
+        <item>Kiran Gardner</item>
+        <item>KIRAN K KATATA</item>
+        <item>KIRAN RTHAKOR</item>
+        <item>KIRIT D SOLANKI</item>
+        <item>KIRRIT KUMAR PANDAV</item>
+        <item>KIRTI K RATHOD</item>
+        <item>KIRTIKUMAR D THAKOR</item>
+        <item>KISHANBHAI M BHANGI</item>
+        <item>KOHLE UMESH LAXMAN</item>
+        <item>KOLTE SANTOSH SHARAD</item>
+        <item>KOSHTI UTSAV KAMALBHAI</item>
+        <item>KOTECHA KETAN KUMAR VIRE</item>
+        <item>KOTHARI CHARMY SHITAL</item>
+        <item>KOTHARI DILIPKUMAR MANAK</item>
+        <item>KOTHARI UMESH SHARADBHAI</item>
+        <item>KOTHARI VIJAY OMPRAKASH</item>
+        <item>KRISHNA GOPAL RAM SAHAY </item>
+        <item>KUMAR BHAVYA MANISH</item>
+        <item>KUMAR RAVI</item>
+        <item>KUMHAR MALARAM KUPARAM</item>
+        <item>LAKDAWALA ABSAR MOHAMMAD</item>
+        <item>LAKHA SUTHARIA</item>
+        <item>LAKHERA VIKAS JANARDHANP</item>
+        <item>LAKHSMIBEN R THAKOR</item>
+        <item>LAKSMAN BABABHAI</item>
+        <item>LALABHAI B PRAJAPATI</item>
+        <item>LALABHAI CHANDRAKANT VYA</item>
+        <item>LALABHAI V BHARWAD</item>
+        <item>LALAGI PALAGI THAKOR</item>
+        <item>LALCHAND B KORI</item>
+        <item>LALGIBHAI DESAI</item>
+        <item>LALGIBHAI K RABARI</item>
+        <item>LALITHA POLURU</item>
+        <item>LALJIBHAI  K  RABARI</item>
+        <item>LAVINGIA KRUTI RAJESH</item>
+        <item>LILABEN D SOLANKI</item>
+        <item>Lincy Gomez</item>
+        <item>M.MALLIKARJUN</item>
+        <item>M.S.GOHIL</item>
+        <item>MACWAN AKASH ISHUDAS</item>
+        <item>MACWAN SUDHIR DAHYABHAI</item>
+        <item>MADHUBEN H SAMTHIYA</item>
+        <item>MADHUBEN H SOLANKI</item>
+        <item>Madhvi Bera</item>
+        <item>MAHAJAN KARUNA ANIL</item>
+        <item>MAHENDRA I PATEL</item>
+        <item>MAHENDRA I VASAVA</item>
+        <item>MAHESH  N  PATEL</item>
+        <item>MAHESH  NAROTTAMDAS PATE</item>
+        <item>MAHESH B THAKOR</item>
+        <item>MAHESH J DAMOR</item>
+        <item>MAHESH JADAV</item>
+        <item>Mahesh K C</item>
+        <item>MAHESH K SOLANKI</item>
+        <item>MAHESH MOTIBHAI DESAI</item>
+        <item>MAHESH N HARIJAN</item>
+        <item>MAHESH N PATEL</item>
+        <item>MAHESH V MAKVANA</item>
+        <item>MAHESH VASTARAM SOLANKI</item>
+        <item>MAHESHBHAI  S  THAKOR</item>
+        <item>MAHESHBHAI K SOLANKI</item>
+        <item>MAHESHGI ABUGI THAKOR</item>
+        <item>MAKHESANA MAYUR ASHWINBH</item>
+        <item>MAKVANA HASTIK GANPATBHA</item>
+        <item>MAKVANA ROHIT MAGALDAS</item>
+        <item>MAKWANA HITESH MANSUKHBH</item>
+        <item>MAKWANA RANJIT BACHUBHAI</item>
+        <item>MAKWANA RUDRESHKUMAR DIN</item>
+        <item>MALHOTRA SANDEEP</item>
+        <item>MALIK KRISHNA PAL PHERU</item>
+        <item>MALIK LOKENDRA</item>
+        <item>MANGAJI  S  SOLANKI</item>
+        <item>MANGALBHAI  N  PATEL</item>
+        <item>MANIBEN D RAVAT</item>
+        <item>MANILAL S HARIJAN</item>
+        <item>MANISH D MEHTA</item>
+        <item>MANISH M SOLANKI</item>
+        <item>MANJULABEN K BHANGI</item>
+        <item>MANKAD SAPAN HARESH</item>
+        <item>MANKODI HITARTHI BHARTEN</item>
+        <item>MANSURI  FARUK RAHIMBHAI</item>
+        <item>MANUBHAI  A  TAPODHAN</item>
+        <item>MANUBHAI M CHAUHAN</item>
+        <item>Mavirleth Jacob John</item>
+        <item>MAWANDIYA BIMALKUMAR JAI</item>
+        <item>MECWAN BINDIA SHANTILAL</item>
+        <item>MEDAVA JITESH</item>
+        <item>Meeta Mushi</item>
+        <item>MEHESHBHAI VEGHELA</item>
+        <item>MEHTA BINDI RAVINDRABHAI</item>
+        <item>MEHTA CHINTAN RAJESHKUMA</item>
+        <item>MEHTA DHARA MUKESHKUMAR</item>
+        <item>MEHTA KRISHNA </item>
+        <item>MEHTA PAYAL V</item>
+        <item>MEHTA PAYAL VATSAL</item>
+        <item>MEHTA PRITI JIGNESH</item>
+        <item>MEHTA PRIYANKA PARS RAM</item>
+        <item>MEHTA SANDIP  ANILBHAI</item>
+        <item>Mehta Shantanu</item>
+        <item>MEHTA SHRUTI NALINBHAI</item>
+        <item>MEHTA TEJAL AMIT</item>
+        <item>MEHTA USHA SANDEEP</item>
+        <item>MEHTA VISHAL KETANKUMAR</item>
+        <item>MEHUL PRAHLADBHAI PRAJAP</item>
+        <item>MEHULKUMAR K THAKOR</item>
+        <item>MELAJI C THAKOR</item>
+        <item>MELAJI S THAKOR</item>
+        <item>MEMON SHEBAZAHEMAD</item>
+        <item>MENON NIRMALA AJIT</item>
+        <item>METKAR SANKET KAUSHIKKUM</item>
+        <item>MEWADA RAJUBHAI KANAIYAL</item>
+        <item>MILANKUMAR VAISNAV</item>
+        <item>MIRANDA MARY SAPNA PETER</item>
+        <item>MISHRA AMIT BRAHMANAND</item>
+        <item>MISHRA LUCKY MANISHKUMAR</item>
+        <item>MISHRA MAYANK D.D</item>
+        <item>MISHRA RASENDU BRIJESHKU</item>
+        <item>MISHRA RENUKA DEEPAK</item>
+        <item>MISHRA RICHA PATANJALI</item>
+        <item>MISTRY CHETANKUMAR</item>
+        <item>MITTAL SONIA TUSHAR</item>
+        <item>MOANOJBHAI A PATEL</item>
+        <item>MODH AMITKUMAR KANAIYALA</item>
+        <item>MODH HETAL JAYANTILAL</item>
+        <item>MODH NIMITKUMAR KANAIYAL</item>
+        <item>MODI ANITHA VISHAL</item>
+        <item>MODI BHARATKUMAR AMRUTLA</item>
+        <item>MODI DIPALI BHAVESHBHAI</item>
+        <item>MODI SANDIP VASANTLAL</item>
+        <item>MODY RAGHUVIR JAGMOHANDA</item>
+        <item>MOHANBHAI DESAI</item>
+        <item>MOHANGI SURAGI THAKOR</item>
+        <item>MOHENGI VESAGI THAKOR</item>
+        <item>MOLIA TARKESH JAMANBHAI</item>
+        <item>MOONKA ROHIT SHYAM LAL</item>
+        <item>MORBIA HARSH HARILAL</item>
+        <item>MUDALIAR NITYANANDAN NAT</item>
+        <item>MUDALIYAR PARTHIBAN SANT</item>
+        <item>MUHAMMAD NIZAM ASHRAF KH</item>
+        <item>MUKESH G PATEL</item>
+        <item>MUKESH M PATEL</item>
+        <item>MUKESH RASHIKGI</item>
+        <item>MUKESHBHAI A RAVAL</item>
+        <item>MUKESHBHAI V RAVAL</item>
+        <item>MUKESHGI GALABGI THAKOR</item>
+        <item>MUKHERJEE SILKY KALYAN</item>
+        <item>MUKUNDRAY  M  SHRIMALI</item>
+        <item>MUNCHERJI NINA BOMI</item>
+        <item>MUNSHI NASREEN  SHAKIL</item>
+        <item>MURALI BADANTHADKA</item>
+        <item>NADEEM AHMAD UMARHAYAT</item>
+        <item>NADIMALI HAIDER KHAN</item>
+        <item>NADLAL P VEGHELA</item>
+        <item>NAGAR JIGNESH RAMESHKUMA</item>
+        <item>NAIK AMISHA PARIMAL</item>
+        <item>NAIK DHARMENDRA VRAJLAL</item>
+        <item>NAIK MEHUL RATILAL</item>
+        <item>NAIR AMEE KRISHNAKUMAR</item>
+        <item>NAIR ANUJA</item>
+        <item>NAIR RAJEEVNATH GOPINATH</item>
+        <item>NAIR REJITHA NARAYANAN</item>
+        <item>NAIR SATISH K.P. KRISHNA</item>
+        <item>NAIR SRIJA</item>
+        <item>NAIR SUNAJA AJI</item>
+        <item>NANDA BHUMIKA SUMAN</item>
+        <item>NARAENDRA N SOLANKI</item>
+        <item>NARASH KUMAR</item>
+        <item>NARASIMHA REDDY RAVURU</item>
+        <item>NARAYANAN E.V CELINE</item>
+        <item>NARENDRA  B  PATEL</item>
+        <item>NARENDRA A RAVAL</item>
+        <item>NARENDRA G MAKVANA</item>
+        <item>NARENDRA J HARIJAN</item>
+        <item>NARESH A ZALA</item>
+        <item>Nareshkumar N Poturaju</item>
+        <item>NARMAWALA ZUNNUN A. RAOO</item>
+        <item>NAROTAMDAS J PATEL</item>
+        <item>NATH V V</item>
+        <item>NATVARBHAI J SOLANKI</item>
+        <item>NAVARAM CHHOGARA MINA</item>
+        <item>NAVIN TRIVEDI</item>
+        <item>NAYAK AJAY KANUBHAI</item>
+        <item>NAYAK KIRITBHAI RAMANLAL</item>
+        <item>NAYAK VICTOR SUNIL KUMAR</item>
+        <item>NAYAK VIJAY KANUBHAI</item>
+        <item>NAYAK VIKRAM RAMESHBHAI</item>
+        <item>NAYAKN  YOGESHBHAI</item>
+        <item>NAYAN K RAVAT</item>
+        <item>NAYANABEN BALDEVBHAI RAV</item>
+        <item>NENAWATI SONAL ANURAG</item>
+        <item>NERESHKUMAR M THAKOR</item>
+        <item>Nikunjkumar R. Patel</item>
+        <item>NILAMBEN B PARMAR</item>
+        <item>NIMBARK PINKY BACHUBHAI</item>
+        <item>NIRBHAY</item>
+        <item>NIRJA DESAI</item>
+        <item>Nirmal C. Soni </item>
+        <item>NIRMLABEN B PARMAR</item>
+        <item>NIRUBEN B PARMAR</item>
+        <item>NITIN J THAKOR</item>
+        <item>Niyati Dave</item>
+        <item>NONGTHOMBAM BANGKIM SING</item>
+        <item>Not Known</item>
+        <item>OWAIS HASAN KHAN</item>
+        <item>OZA DHAVAL CHAMPAKLAL</item>
+        <item>OZA DIGANT MRUGESH</item>
+        <item>OZA PARITA RAJIV</item>
+        <item>OZA PAYAL AMITBHAI</item>
+        <item>PAL ANWESHA</item>
+        <item>PAL SUPRIYA</item>
+        <item>PANCHAL DIPESH JASHVANTB</item>
+        <item>PANCHAL JAYESH  DAHYABHA</item>
+        <item>PANCHAL MAULIK NATWARLAL</item>
+        <item>Panchal Miteshbhai </item>
+        <item>PANCHAL NILAM</item>
+        <item>PANCHAL SHARADKUMAR</item>
+        <item>PANCHAL SHITAL SHARAD</item>
+        <item>PANCHAL TEJAS HARIPRASAD</item>
+        <item>PANDEY POOJA PRAVINDRA</item>
+        <item>PANDIT ANURADHA</item>
+        <item>PANDIT DEVANG JYOTINDRA</item>
+        <item>PANDIT MIHIR JYOTINDRA</item>
+        <item>PANDYA ANKUR ARVINDBHAI</item>
+        <item>PANDYA BHARGAV KANAIYALA</item>
+        <item>PANDYA DEVANG BHASKERBHA</item>
+        <item>PANDYA DIPALI PRANAV</item>
+        <item>PANDYA DIVYANG JAYANTKUM</item>
+        <item>PANDYA HEMANG SURYAKANT</item>
+        <item>PANDYA JAYSHREE DAHYALAL</item>
+        <item>Pandya Jignesh</item>
+        <item>PANDYA RAHUL BHANUPRASAD</item>
+        <item>PANDYA RUSHABH HARIPRASA</item>
+        <item>PANDYA SHARNIL NITIN</item>
+        <item>PANDYA VAIBHAVI KRUNALKU</item>
+        <item>PANERIA UPENDRA RASIKBHA</item>
+        <item>PANKAJ P THAKOR</item>
+        <item>PANKAJBHAI  D  RANA</item>
+        <item>PANUBHAI G BHANGI</item>
+        <item>Parag V. Mistry</item>
+        <item>PARASHAR SAPNA CHAMANLAL</item>
+        <item>PARATE AJAYKUMAR CHANDRA</item>
+        <item>PARDHEY NANDA D.</item>
+        <item>PAREEK PREKSHA</item>
+        <item>PARESH PARMAR</item>
+        <item>PARESH V RAWAL</item>
+        <item>PARGHI SANDIP VINODCHAND</item>
+        <item>PARIKH AMIT KISHORKUMAR</item>
+        <item>PARIKH DHAIVAT  CHANDRAK</item>
+        <item>PARIKH KRISHNA ASHOKKUMA</item>
+        <item>PARIKH KSHAMA SAURIN</item>
+        <item>PARIKH MADHURI AMITKUMAR</item>
+        <item>PARIKH PALAK K</item>
+        <item>PARIKH RASHESH GOPALBHAI</item>
+        <item>PARIKH RINA SHAILESHBHAI</item>
+        <item>PARIKH SAURIN SHARAD</item>
+        <item>PARIKH VISHAL UMESHKUMAR</item>
+        <item>PARMAR  NIKATANBHAI CHAN</item>
+        <item>PARMAR DHARAMVISINH BHAR</item>
+        <item>PARMAR KANTABEN SOMABHAI</item>
+        <item>PARMAR KRISHNABEN VITHAL</item>
+        <item>PARMAR MEENABEN BALDEVBH</item>
+        <item>PARMAR NARESHKUMAR NATVA</item>
+        <item>PARMAR PALLAVI </item>
+        <item>PARMAR SAVETABEN LAMHELB</item>
+        <item>PARMAR SHARAD CHANDULAL</item>
+        <item>PARMAR SUNITA SHANTILAL</item>
+        <item>PARULBEN M SOLANKI</item>
+        <item>PARVATIBEN P SOLANKI</item>
+        <item>PASHIBEN M RATHOD</item>
+        <item>PATEL AJAY MADHUBHAI</item>
+        <item>PATEL ALKESH GOVINDBHAI</item>
+        <item>PATEL ALPESHKUMAR ISHWAR</item>
+        <item>PATEL AMARATBHAI SHANKAR</item>
+        <item>PATEL AMBUBHAI MAGANBHAI</item>
+        <item>PATEL AMI</item>
+        <item>PATEL AMIT NARAYANBHAI</item>
+        <item>PATEL ANAND SOMABHAI</item>
+        <item>PATEL ANKIT CHAMPAKLAL</item>
+        <item>PATEL ASHOK HARJIVANDAS</item>
+        <item>PATEL BABALDAS CHUNILAL</item>
+        <item>PATEL BABUBHAI BABALDAS</item>
+        <item>PATEL BABUBHAI JOITABHAI</item>
+        <item>PATEL BHAVISHA DHARMESH</item>
+        <item>PATEL BHOOMIKA MAYUR</item>
+        <item>PATEL BHUMIKA DIPEN</item>
+        <item>PATEL BIPIN BABUBHAI</item>
+        <item>PATEL CHETAN NARYANBHAI</item>
+        <item>PATEL DEEPESH KUMAR</item>
+        <item>PATEL DEVENDRAKUMAR KANU</item>
+        <item>PATEL DHARA RANCHODBHAI</item>
+        <item>PATEL DHARMABHAI MANABHA</item>
+        <item>PATEL DHARTIBEN MAYURBHA</item>
+        <item>PATEL DHAVAL  VALLABHBHA</item>
+        <item>PATEL DINESH JAYANTILAL</item>
+        <item>PATEL DIPESH KANTIBHAI</item>
+        <item>PATEL DIVYESH HASMUKHBHA</item>
+        <item>PATEL DIVYESH VITTHALBHA</item>
+        <item>PATEL DUSHYANTKUMAR BABU</item>
+        <item>PATEL FEMINA JITENDRA</item>
+        <item>PATEL GOVINDBHAI</item>
+        <item>PATEL HARSHADKUMAR KASHI</item>
+        <item>PATEL HASMUKHBHAI PREMJI</item>
+        <item>PATEL HIMANI</item>
+        <item>PATEL HIMANSHU KANTILAL</item>
+        <item>PATEL HIRAL BABULAL</item>
+        <item>PATEL HIRAL THAKORLAL</item>
+        <item>PATEL HIREN ISHWARBHAI</item>
+        <item>PATEL ISHWARBHAI RUGNATH</item>
+        <item>PATEL JATINKUMAR KANTILA</item>
+        <item>PATEL JAY</item>
+        <item>PATEL JAYESHKUMAR JASHVA</item>
+        <item>PATEL JIGISHA DAHYABHAI</item>
+        <item>PATEL JIGNA ASHISH</item>
+        <item>PATEL JIGNA DIPAKKUMAR</item>
+        <item>PATEL JIGNASA HARIT</item>
+        <item>PATEL JIGNESH BALDEVBHAI</item>
+        <item>PATEL JIGNESHKUMAR HARJI</item>
+        <item>PATEL JITALI DINESHKUMAR</item>
+        <item>PATEL KAMLESHKUMAR MANIL</item>
+        <item>PATEL KASAK K</item>
+        <item>PATEL KATANBHAI BABALDAS</item>
+        <item>PATEL KAUSHIK MITHABHAI</item>
+        <item>PATEL KAVSHIK KUMAR MANJ</item>
+        <item>PATEL KETAN MAHENDRABHAI</item>
+        <item>PATEL KHODABHAI KALIDAS</item>
+        <item>PATEL KIRANKUMAR C.</item>
+        <item>PATEL KRUNAL AMRUTBHAI</item>
+        <item>PATEL KRUPAXI SHAILESH</item>
+        <item>PATEL KUNTALKUMAR POPATL</item>
+        <item>PATEL MAHENDRA SHANKERLA</item>
+        <item>PATEL MANGALBHAI GANDABH</item>
+        <item>PATEL MANISH KANUBHAI</item>
+        <item>PATEL MANISHKUMAR BABULA</item>
+        <item>PATEL MANISHKUMAR JOITAR</item>
+        <item>PATEL MAYUR  MAHENDRABHA</item>
+        <item>PATEL MAYUR  SURESHBHAI</item>
+        <item>PATEL MUKESH RAMJIBHAI</item>
+        <item>PATEL MUKESHBHAI RAMESHB</item>
+        <item>PATEL NIKITA BHAILALBHAI</item>
+        <item>PATEL NIMISHKUMAR SOMABH</item>
+        <item>PATEL NITAL SANJAY</item>
+        <item>PATEL NITIN KACHARABHAI</item>
+        <item>PATEL NITINKUMAR KANUBHA</item>
+        <item>PATEL NITINKUMAR MANILAL</item>
+        <item>PATEL NRUPESH RAMANBHAI</item>
+        <item>PATEL NUTANKUMAR </item>
+        <item>PATEL PARESH</item>
+        <item>PATEL PARESH VARDHMANDAS</item>
+        <item>PATEL PARESHKUMAR BALDEV</item>
+        <item>PATEL PARUL RUCHIR</item>
+        <item>PATEL PIYUSHKUMAR JAGDIS</item>
+        <item>PATEL PRADIP GULABCHAND</item>
+        <item>PATEL PRAKASH BHIKHABHAI</item>
+        <item>PATEL PRAKASH MANSUKHLAL</item>
+        <item>PATEL RAJENDRA BABULAL</item>
+        <item>PATEL RAJENDRA GANDALAL</item>
+        <item>PATEL RAJESH JIVANBHAI</item>
+        <item>PATEL RAJESHKUMAR BABULA</item>
+        <item>PATEL RAJESHKUMAR NARANB</item>
+        <item>PATEL RAKESH MANILAL</item>
+        <item>PATEL RAMJIBHAI HARGOVIN</item>
+        <item>PATEL RINKI HITESH</item>
+        <item>PATEL ROHIT RAMANLAL</item>
+        <item>PATEL RONAKKUMAR RAMESHC</item>
+        <item>PATEL SACHIN MAGANLAL</item>
+        <item>PATEL SANDIPKUMAR SOMABH</item>
+        <item>PATEL SANJAY SURENDRABHA</item>
+        <item>PATEL SATEJ MAHESHKUMAR</item>
+        <item>PATEL SHAILESH MANILAL</item>
+        <item>PATEL SHAILESHKUMAR AMBA</item>
+        <item>PATEL SHILPABEN MUKESHKU</item>
+        <item>PATEL SNEHAL SANJAYKUMAR</item>
+        <item>PATEL SUDHA KUNALKUMAR</item>
+        <item>PATEL SURESHKUMAR RAMBHA</item>
+        <item>PATEL SWETA BHARATBHAI</item>
+        <item>PATEL TRUPTI HARSHADKUMA</item>
+        <item>PATEL TUSHAR KANTILAL</item>
+        <item>PATEL UMEDBHAI AMBARAM</item>
+        <item>PATEL USHA DINESHBHAI</item>
+        <item>PATEL VIBHA DIVYESHBHAI</item>
+        <item>PATEL VISHAL PRABHUBHAI</item>
+        <item>PATHAK KUNAL BALDEVBHAI</item>
+        <item>PATHAN JAFARULLAKHAN NAV</item>
+        <item>PATIDAR MEGHA</item>
+        <item>PATNI NEHA AMITSINGH</item>
+        <item>PATTATH KAPIL N.</item>
+        <item>PHOOKHANDRA VERMA</item>
+        <item>PILLAI SHIBU N. GOPINATH</item>
+        <item>PILLAI SUJATHA BIJU</item>
+        <item>PINGLE SAMEER SUDHAKAR</item>
+        <item>POKHARIYAL PURVI ANANT A</item>
+        <item>POPAT AKBARALI MOHAMADAL</item>
+        <item>PRABHA YAMINI</item>
+        <item>PRAHLAD AMRUTBHAI RAVAL</item>
+        <item>PRAHLAD KUMAR</item>
+        <item>PRAHLADBHAI R THAKOR</item>
+        <item>PRAHLADGI BHAVANGI</item>
+        <item>PRAHLADSINGH R CHAUHAN</item>
+        <item>PRAJAPATI ARVIND BHAI</item>
+        <item>PRAJAPATI DILIPBHAI ASHA</item>
+        <item>PRAJAPATI HIREN MANILAL</item>
+        <item>PRAJAPATI KADAM NARANBHA</item>
+        <item>PRAJAPATI PRAGNA BHARATK</item>
+        <item>PRAJAPATI SACHINKUMAR KI</item>
+        <item>PRAKASH K THAKOR</item>
+        <item>PRAKASHCHANDRA A PATEL</item>
+        <item>PRAKESH NATVERBHAI THAKO</item>
+        <item>Prakesh vanand</item>
+        <item>PRAMOD KUMAR</item>
+        <item>PRANSHU SINGH</item>
+        <item>PRASAD ARUN</item>
+        <item>PRASAD VIVEK KUMAR SAHDE</item>
+        <item>Prashant kumar</item>
+        <item>PRASHYA A.P SHAJI</item>
+        <item>PRATAP SINGH</item>
+        <item>PRATAPBHAI P MAKVANA</item>
+        <item>PRATIK DINESHBHAI KANSAR</item>
+        <item>PRAVIN PATEL</item>
+        <item>PRAVINBHAI PATEL</item>
+        <item>PRAVINBHAI S RAVAL</item>
+        <item>PRAVINKUMAR H PANCHOLA</item>
+        <item>PRAVINSINH   U  CHAVDA</item>
+        <item>PREMILABEN R THAKOR</item>
+        <item>Pritesh P. Shah</item>
+        <item>PRIYANK SADABHAI</item>
+        <item>Prof. Amitayu Chakrabort</item>
+        <item>Prof. Bhakti Vaishnav</item>
+        <item>Prof. John Bosco. P</item>
+        <item>Prof. Khyati Desai</item>
+        <item>Prof. Samir Mahajan</item>
+        <item>PUJARA DHAVAL AMRUTBHAI</item>
+        <item>PUROHIT GHANSHYAM  VINAY</item>
+        <item>PUROHIT HITENDRA  PRAHLA</item>
+        <item>PUROHIT SHARADKUMAR PURA</item>
+        <item>PUROHIT YOGENDRA VINAYCH</item>
+        <item>Purvi Jadav</item>
+        <item>PUSHPABEN B RAVAR</item>
+        <item>RABARI SAGARBHAI GOVABHA</item>
+        <item>RAGHUBHAI C SOLANKI</item>
+        <item>Raghvendra trivedi</item>
+        <item>RAHUL A RATHOD</item>
+        <item>RAISINGHANI SARITA RAVI</item>
+        <item>RAIYANI SUNIL</item>
+        <item>RAJA SINGH</item>
+        <item>RAJANI SUTHAR</item>
+        <item>RAJENDRA PANDAY</item>
+        <item>RAJENDRA S VAGHELA</item>
+        <item>RAJESH  S  PARMAR</item>
+        <item>RAJESH A PATEL</item>
+        <item>RAJESH K THAKOR</item>
+        <item>RAJESH LAXMANGI</item>
+        <item>RAJESH MADHUSIGH ZALA</item>
+        <item>RAJESH NATVERLAL PRAJAPA</item>
+        <item>RAJESHBHAI  P  DABHI</item>
+        <item>RAJESHBHAI A MIR</item>
+        <item>RAJIGI RAMAGI THAKOR</item>
+        <item>RAJU BANSKAR ROOP SINGH</item>
+        <item>RAJUBHAI B RABARI</item>
+        <item>RAJUBHAI M DESAI</item>
+        <item>RAKASH VANKAR</item>
+        <item>RAKESH B VAGHELA</item>
+        <item>RAKESH P PARMAR</item>
+        <item>RAKESH P TRIPATHI</item>
+        <item>RAKESH PASHABHAI VANKAR</item>
+        <item>RAKESHBHAI  M  PRAJAPATI</item>
+        <item>RAKESHBHAI B BAMANIYA</item>
+        <item>RAKESHJI L THAKOR</item>
+        <item>RAMAGI GAGAGI</item>
+        <item>RAMAN SHANGDA</item>
+        <item>RAMANBHAI  K   SOLANKI</item>
+        <item>RAMANBHAI PATEL</item>
+        <item>RAMANLAL  M  PARMAR</item>
+        <item>RAMESH KUMAR V.M. VISHNU</item>
+        <item>RAMESH MANGAJI THAKOR</item>
+        <item>RAMESH RMAKWANA</item>
+        <item>RAMESHBHAI CHANDUBHAI  K</item>
+        <item>RAMESHBHAI V DESAI</item>
+        <item>RAMESHGI MAGANGI THAKOR</item>
+        <item>RAMESHGI MAGANGI THAKOR</item>
+        <item>RAMESHNATH  S  CHAUHAN</item>
+        <item>RAMKEVAL SUKRAPAI</item>
+        <item>RAMKISHOR S YADAV</item>
+        <item>RAMPAL NAGENDRA SINGH</item>
+        <item>RAMPRATAP DHARAM SINGH</item>
+        <item>RANGWALA HASAN</item>
+        <item>RANINGA DIVYESH</item>
+        <item>RANJIT  B  RAWAL</item>
+        <item>RANSHODBHAI DHULABHAI</item>
+        <item>RANVIJAYSINH K GOL</item>
+        <item>RAO MAHENDRASINGH JASHWA</item>
+        <item>RAO MONICA MAHENDRASINGH</item>
+        <item>RATHOD DHARMENDRASINH MA</item>
+        <item>RATHOD DIGANT KIRANKUMAR</item>
+        <item>RATHOD HASMUKH BHIKHABHA</item>
+        <item>RATHOD KAMLABEN NARANBHA</item>
+        <item>RATHOD PRAJAKTA SUNIL</item>
+        <item>RATNABHAI P BAMANIYA</item>
+        <item>RAUNAQ BAGADE</item>
+        <item>RAVAL AMIT CHANDRAKANT</item>
+        <item>RAVAL BHAVESH JAYNTILAL</item>
+        <item>RAVAL GAURANG AMRUTBHAI</item>
+        <item>RAVAL JASVANT VADILAL</item>
+        <item>RAVAL MAYURKUMAR MAHENDR</item>
+        <item>RAVAL NIPUN PRAVINBHAI</item>
+        <item>RAVAL PRAHLADBHAI NAGARB</item>
+        <item>RAVAL PUSHPAK JAYANTILAL</item>
+        <item>RAVAL RUSHIKESH MAHENDRA</item>
+        <item>RAVAL TEJAS NITINKUMAR</item>
+        <item>RAVAL VISHAL REVABHAI</item>
+        <item>RAVAT ANIL BALDEV BHAI</item>
+        <item>RAVAT CHANDRIKABEN RAVAB</item>
+        <item>RAVAT DENESH AMRUTBHAI</item>
+        <item>RAVAT RANKUBEN BADDEVBHA</item>
+        <item>RAVAT RAVABEN GABHAJI</item>
+        <item>RAVAT VISHAL MALABHAI</item>
+        <item>RAVI K VAGHELA</item>
+        <item>RAVINDRA K BHOSLE</item>
+        <item>RAVINDRABHAI  B   BORKER</item>
+        <item>REKESHBHAI B PRAJAPATI</item>
+        <item>REVABEN V SOLANKI</item>
+        <item>RIJWANI PARAG RAJKUMAR</item>
+        <item>RITABEN R RAVAL</item>
+        <item>RITESHKUMAR  C  TRIVEDI</item>
+        <item>ROBIN JOSEPH</item>
+        <item>ROCHLANI SUSHANT KAMAL</item>
+        <item>ROHIT C THAKOR</item>
+        <item>Rohit K Thakor</item>
+        <item>RUPARELIA JAYESH PRABHUD</item>
+        <item>S. SHRIRAM  V. SESHADRI</item>
+        <item>SABHANI CHANDNI RITESH</item>
+        <item>SABURBHAI BHABHOR</item>
+        <item>SAHOO SUKANTA KUMAR</item>
+        <item>SAILESHBHAI  V  NAYAK</item>
+        <item>SAINI PRAFUL GAJENDRA</item>
+        <item>Saiyad Afzalhusen</item>
+        <item>SAKSENA DIPAKKUMAR PARSO</item>
+        <item>SALESHBHAI  B   GAJJAR</item>
+        <item>SALESHBHAI  J  THAKOR</item>
+        <item>SAMTANI KANCHAN</item>
+        <item>SAMUBEN M THAKOR</item>
+        <item>SANGHVI NIKITA</item>
+        <item>SANJAY  D  DESAI</item>
+        <item>SANJAY A SHAH</item>
+        <item>SANJAY BHAI  D  RABARI</item>
+        <item>SANJAY D RAVAL</item>
+        <item>SANJAY ISHWARBHAI VAGHEL</item>
+        <item>SANJAY KUMAR PANDEY</item>
+        <item>SANJAY M PARMAR</item>
+        <item>SANJAYBHAI  I  DANTANI</item>
+        <item>SANKET  N  PATEL</item>
+        <item>SANKHALA ARVIND MAKHANLA</item>
+        <item>SANTOSH KUMAR KORI</item>
+        <item>SANTOSHKUMAR R MAURY</item>
+        <item>SARAOGI SAURABH</item>
+        <item>SARASWAT PRANAV</item>
+        <item>SARI SOFIA ANNELI MATTIL</item>
+        <item>SAROJBEN T THAKOR</item>
+        <item>SASWADKAR PUNIT</item>
+        <item>SATISH G BHANGI</item>
+        <item>SAUMIL DESAI</item>
+        <item>SAVANI VIJAY GOPALBHAI</item>
+        <item>SAVJANI JIGNASA KETAN</item>
+        <item>SAWHNEY RUCHI</item>
+        <item>SAXENA PARAG ANILKISHORE</item>
+        <item>SAXENA PRIYA  PARAG</item>
+        <item>SAXENA RAVI RAMSARAN</item>
+        <item>SEEMA SOMABHAI BAMNIYA</item>
+        <item>SEHGAL SWATI</item>
+        <item>SEN RAVINDRA</item>
+        <item>SESHADRI P S</item>
+        <item>SHAH ALKA M</item>
+        <item>SHAH ANKIT DINESHBHAI</item>
+        <item>SHAH BALKRUSHNA ARVINDBH</item>
+        <item>SHAH BEENA RAJ</item>
+        <item>SHAH CHINTAN JASVANTLAL</item>
+        <item>SHAH DARSHITA JIGAR</item>
+        <item>SHAH DHAVAL BIPINCHANDRA</item>
+        <item>SHAH DHAVAL GOPALCHANDRA</item>
+        <item>SHAH DR. VAIBHAV MANOHAR</item>
+        <item>SHAH GIRISHKUMAR JAGADIS</item>
+        <item>SHAH HASMUKHKUMAR OCHCHH</item>
+        <item>SHAH HETA JANAKBHAI</item>
+        <item>SHAH JALPA BHARATKUMAR</item>
+        <item>SHAH JIGAR NARESHKUMAR</item>
+        <item>SHAH JIGNA SAMIR</item>
+        <item>SHAH KAJAL KIRTIKUMAR</item>
+        <item>SHAH KHYATI SURESH</item>
+        <item>SHAH KRUPALI VINODCHANDR</item>
+        <item>SHAH MAITRY M.</item>
+        <item>SHAH MANAN RAMANLAL</item>
+        <item>SHAH MANISHA TUSHAR</item>
+        <item>SHAH MANSI NIRAV</item>
+        <item>SHAH MIHIR CHANDRAKANT</item>
+        <item>SHAH MOHIT</item>
+        <item>SHAH MONIKA GUNVANTBHAI</item>
+        <item>SHAH NIMISH RAJNIKANT</item>
+        <item>SHAH NIRAJKUMAR KIRITKUM</item>
+        <item>SHAH PALAK ASHOKBHAI</item>
+        <item>SHAH PARIN DINANATH</item>
+        <item>SHAH POOJA PRAKASHBHAI</item>
+        <item>SHAH PRITESH PRADYUMNABH</item>
+        <item>SHAH RAHUL I</item>
+        <item>SHAH RAHUL INDUBHAI</item>
+        <item>SHAH RAJENDRA DAHYALAL</item>
+        <item>SHAH RITESH MAHENDRA</item>
+        <item>SHAH RUSHABH RAMESHCHAND</item>
+        <item>SHAH SHIKHA RAJENDRA</item>
+        <item>SHAH SHRADDHA KISHORBHAI</item>
+        <item>SHAH TEJAS LALBHAI</item>
+        <item>SHAH VRAJESH SUDHIRBHAI</item>
+        <item>SHAH ZARANA RAMESHCHANDR</item>
+        <item>Shahir Bhatt</item>
+        <item>SHAIKH ANJUM ASHIYA</item>
+        <item>SHAIKH FAIYAZ MOHMMAD HA</item>
+        <item>SHAIKH JISHAN KAMRUDDIN</item>
+        <item>SHAIKH MAQSUD GULAM MASU</item>
+        <item>SHAILESH B UGHAREJIYA</item>
+        <item>SHAILESH K VAGHELA</item>
+        <item>SHAILESH K VAGHELA</item>
+        <item>SHAKRAJI THAKOR</item>
+        <item>SHALESHGI THAKOR</item>
+        <item>SHALESHKUMAR K PRAJAPATI</item>
+        <item>SHALINI RAJKUMAR S.P</item>
+        <item>SHALINI S.</item>
+        <item>SHALISHBHAI RABARI</item>
+        <item>Shammi Acharya</item>
+        <item>SHAMNANI UJALA</item>
+        <item>SHANKAR KOTWAL</item>
+        <item>SHANMA  BALVANTBHAI GOVI</item>
+        <item>SHARADBHAI R MODI</item>
+        <item>SHARADBHAI R PATEL</item>
+        <item>SHARDABEN RAMESHBHAI KAT</item>
+        <item>SHARMA ANKIT RAVINDRA</item>
+        <item>SHARMA DHARMENDRAKUMAR S</item>
+        <item>SHARMA JAI PRAKASH</item>
+        <item>SHARMA PRIYANKA RAHUL</item>
+        <item>SHARMA RACHNA</item>
+        <item>SHARMA SANDIP PRAHLADBHA</item>
+        <item>SHARMA SHARITA DEVIRAM</item>
+        <item>SHARMA SUDHAKAR BHASKARB</item>
+        <item>SHARMA SUNITA DAMODARLAL</item>
+        <item>SHASTRI MONITA KASHYAP</item>
+        <item>SHEDEV GEMERBHAI DESAI</item>
+        <item>SHETH MITEN KIRITKUMAR</item>
+        <item>SHIHORA JIGNESHKUMAR BAL</item>
+        <item>SHINDHE ANANDKUMAR RAMAK</item>
+        <item>SHIVKUMAR YADAV</item>
+        <item>SHIVPURI KANDARP KISHOR</item>
+        <item>Shreekant Iyangar</item>
+        <item>SHRIMALI RAHUL BHIKHALAL</item>
+        <item>SHRIMANKAR JITENDRA SURY</item>
+        <item>SHRIVASTAVA DEEPAKKUMAR</item>
+        <item>SHRIVASTAVA HARISHKUMAR</item>
+        <item>SHRUTI KAKKAR</item>
+        <item>SHUKLA AMI JIGAR</item>
+        <item>SHUKLA ANKITA</item>
+        <item>SHUKLA DEEPIKA AJAY</item>
+        <item>SHUKLA NIPEN ATULCHANDRA</item>
+        <item>SHUKLA PRASANN DEVENDRAB</item>
+        <item>SHUKLA SVETAL HIRENKUMAR</item>
+        <item>SINGH DR. ANUP K.</item>
+        <item>SINGH MANISH SUBHASHCHAN</item>
+        <item>SINGH MANOJ SURESH</item>
+        <item>SINGH PRATIMA LALTA PRAS</item>
+        <item>SINGH VAISHALI R.K SINGH</item>
+        <item>SINGHAI VIMALKUMAR RAJAR</item>
+        <item>SINGHAL ATH SATISH</item>
+        <item>SINHA ANAMIKA PARMANAND</item>
+        <item>SINHA NANDINI</item>
+        <item>SOLANKI  ASHOKBHAI  MAFA</item>
+        <item>SOLANKI JIGNESHBHAI AMRU</item>
+        <item>SOLANKI KARUNABEN DENESH</item>
+        <item>SOLANKI KIRANBHAI GANPAT</item>
+        <item>SOLANKI MAHESH MAGANBHAI</item>
+        <item>SOLANKI MAYURB BHAI DINE</item>
+        <item>SOLANKI PRAHLADBHAI B</item>
+        <item>SOLANKI RAJUBHAI TULSIBH</item>
+        <item>SOLANKI SAROJBEN RAJUBHA</item>
+        <item>SOLANKI SHILPABEN GAUVTA</item>
+        <item>SOLANKI SHITALBEN MAHESH</item>
+        <item>SOLANKI SUSHILABEN AMRAT</item>
+        <item>SOLANKI VISHALKUMAR GOVI</item>
+        <item>SONALBEN J THAKOR</item>
+        <item>SONALBEN M BAROT</item>
+        <item>SONI GIRISH JAYANTILAL</item>
+        <item>SONI KHUSHBOO ANILKUMAR</item>
+        <item>SONI MITESH JAYANTILAL</item>
+        <item>SONI SUJAL GOVINDBHAI</item>
+        <item>SUDHANSHU KUMAR</item>
+        <item>SUDHIRBHAI D PATEL</item>
+        <item>Sujan Umaraniya</item>
+        <item>SUNIL D NAYAK</item>
+        <item>SUNIL REGAR</item>
+        <item>SURAJ V RAVAL</item>
+        <item>SURENDRA  R  CHAVADA</item>
+        <item>SURESH A BHUTEDIA</item>
+        <item>SURESH J THAKOR</item>
+        <item>SURESH S DINDOR</item>
+        <item>SURESH S REUTIYA</item>
+        <item>SURESHBHAI  D  THAKOR</item>
+        <item>SURESHBHAI C BHARVAD</item>
+        <item>SURESHGI AMRUTGI</item>
+        <item>SURESHSINH B DARBAR</item>
+        <item>SURPAL PARMAR</item>
+        <item>SUTARIYA VISHALKUMAR VAS</item>
+        <item>SUTHAR JAHANVI MITESHKUM</item>
+        <item>SUTHAR NARENDRAKUMAR BHA</item>
+        <item>SUTHAR PRAFULL HARISHANK</item>
+        <item>SWAMI MONIKA SUNIL</item>
+        <item>SWAMI SHUSHILA RAMBHARAT</item>
+        <item>Sweta Jain</item>
+        <item>TAKHU  KHARADI</item>
+        <item>TANDON ANURADHA GAURAV</item>
+        <item>Tapan A Upadhyay</item>
+        <item>TEJAS KUMAR MODI</item>
+        <item>TEJAS V VANIYA</item>
+        <item>TEKWANI PRAGNESHKUMAR NA</item>
+        <item>THAKER H K</item>
+        <item>THAKER PARAG</item>
+        <item>THAKKAR ANKITKUMAR RAJES</item>
+        <item>THAKKAR DIPMALA JANAKKUM</item>
+        <item>THAKKAR JATIN MAHENDRABH</item>
+        <item>THAKKAR MITTAL RAJENDRA</item>
+        <item>THAKKAR PRIYANK BHUPENDR</item>
+        <item>THAKKAR SONAL PRAGNESH</item>
+        <item>THAKKAR UMANG RASIKBHAI</item>
+        <item>THAKOR BHOPAGI AMBARAMGI</item>
+        <item>THAKOR GIVAGI BABUGI</item>
+        <item>THAKOR JASHIBEN PARBATJI</item>
+        <item>THAKOR MADHUBEN RAMESH J</item>
+        <item>THAKOR NEETABEN VALAJI</item>
+        <item>THAKOR REKHA BOPAGI</item>
+        <item>THAKOR SANJAY BHAI KANTI</item>
+        <item>THAKOR SANJAYBHAI BOPAGI</item>
+        <item>THAKOR SAVITABEN BOPAGI</item>
+        <item>THAKOR SHAKARABEN</item>
+        <item>THAKORE NIBHA ARVIND</item>
+        <item>THAKRAR YAMESH</item>
+        <item>THAN SINGH YADAV</item>
+        <item>THANSHINGH S YADAV</item>
+        <item>THOMAS BIJU K.P</item>
+        <item>THOMAS RENJITH E.J.</item>
+        <item>TILVA VIDITA RASIKBHAI</item>
+        <item>Tinaji Thakor</item>
+        <item>TIVARI HANUMAN DINANATH</item>
+        <item>TRIPATHI ALUNKRITA</item>
+        <item>TRIPATHI BISHNUKUMAR </item>
+        <item>TRIPATHI NAGJA VIDUSHEKH</item>
+        <item>TRIPATHI SHAILJA</item>
+        <item>TRIPATHY SANJEEBKUMAR DE</item>
+        <item>TRIVEDI ASTHA DHAVAL</item>
+        <item>TRIVEDI BHAVINI RAJNIKAN</item>
+        <item>TRIVEDI FALGUNI BHARGAVB</item>
+        <item>TRIVEDI HARISMITA ANUBHA</item>
+        <item>TRIVEDI HASIT ATULKUMAR</item>
+        <item>TRIVEDI JAY BHARATBHAI</item>
+        <item>TRIVEDI KRUTIK GIRISHBHA</item>
+        <item>TRIVEDI MADHAVI KASHYAP</item>
+        <item>TRIVEDI MILAN DEEPAKBHAI</item>
+        <item>TRIVEDI PRATIK PRAVINKUM</item>
+        <item>Trivedi Rakesh</item>
+        <item>TRIVEDI REENA RAJANIKANT</item>
+        <item>TRIVEDI SANJAY J.</item>
+        <item>TRIVEDI SHWETA JAYESH</item>
+        <item>TRIVEDI VIKAS</item>
+        <item>TRIVEDI YOGESH NAGARLAL</item>
+        <item>Tyagi Rajeev Kumar</item>
+        <item>U VARADHARAJAN  U DAYACH</item>
+        <item>UKANI VIJAYKUMAR SHANTIL</item>
+        <item>UPADHYAY DARSHANA PRAMOD</item>
+        <item>UPADHYAY DARSHIT SHAILES</item>
+        <item>UPADHYAY MANISHA ASITBHA</item>
+        <item>UPADHYAY NITEESH</item>
+        <item>UPADHYAY TEJAL UNMESH</item>
+        <item>UPADHYAYA AJAYKUMAR NARE</item>
+        <item>VACHHANI KHYATI PRAFUL</item>
+        <item>VAGHELA   SANJAY  RAMNBH</item>
+        <item>VAGHELA  MAHENDRA DINESH</item>
+        <item>VAGHELA  USHABEN MAFATLA</item>
+        <item>VAGHELA DEVENDRA JILUBHA</item>
+        <item>VAGHELA DILIP KANTIBHAI</item>
+        <item>VAGHELA DIVYESH JAYANTIL</item>
+        <item>VAGHELA KIRANKUMAR FRANC</item>
+        <item>VAGHELA MANJUBEN DENESHB</item>
+        <item>VAIDYA VISHAL MANOJKUMAR</item>
+        <item>VAISHNAV DHARMESH PRATAP</item>
+        <item>VAISHNAV HARMIK DHIRENBH</item>
+        <item>VAISHNAV JAYDATT</item>
+        <item>VALIVETI SHARADA RAMAKRI</item>
+        <item>VARMA KRUNAL MUKUNDRAY</item>
+        <item>VASANTKUMAR B PRAJAPATI</item>
+        <item>VASHI DEVENDRASINH ISHWA</item>
+        <item>VEDAVALA RITESH ARVINDBH</item>
+        <item>VEGHELA ARUN  JASUBHAI</item>
+        <item>VEGHELA RANUKABEN SURESH</item>
+        <item>VELLALA PARAMASIVAN SIVA</item>
+        <item>VERMA JAIPRAKASH VINODKU</item>
+        <item>Vibha H. Gajjar</item>
+        <item>Vidhi Patel</item>
+        <item>VIHABHAI M DESAI</item>
+        <item>VIHAGI S THAKOR</item>
+        <item>VIJAY U BIHOLA</item>
+        <item>VIJAYBHAI T THAKOR</item>
+        <item>VIKRAM SINGH</item>
+        <item>VIKRAMBHAI M RABARI</item>
+        <item>VIMAL PATEL</item>
+        <item>VINOD D PATEL</item>
+        <item>VINOD J VAGHELA</item>
+        <item>VINUBHAI B RAWAL</item>
+        <item>VIPUL A VAGHELA</item>
+        <item>VIPUL JIVAGI THAKOR</item>
+        <item>VIPULBHAI  C  PATEL</item>
+        <item>VIPULKUMAR R BHAGORA</item>
+        <item>VIRAL AMBUJI KHER</item>
+        <item>VISHNU  P  PATEL</item>
+        <item>VISHNUBHAI  S  DESAI</item>
+        <item>VISHRAMBHAI L DAMOR</item>
+        <item>VIYAS HASHABEN</item>
+        <item>VIYAS MUKESHBHAI SHANABH</item>
+        <item>VORA SANTOSHKUMAR CHANDR</item>
+        <item>VYAS AMISHKUMAR PRAMODRA</item>
+        <item>VYAS DAIWAT AMIT</item>
+        <item>VYAS JALADHI</item>
+        <item>VYAS LALITCHANDRA TRIBHO</item>
+        <item>VYAS TARABEN MUKESHBHAI</item>
+        <item>VYAS TARJNI KETANBHAI</item>
+        <item>VYAS VIVEK  SHANTILAL</item>
+        <item>YADAV PANKAJ</item>
+        <item>YADAV PRABHATKUMAR VYANK</item>
+        <item>YADAV SUMAN</item>
+        <item>YADAV SURABHI SINGH</item>
+        <item>YADAV YASHPAL CHHAJURAM</item>
+        <item>YAGNIK DEEPA NIKHILBHAI</item>
+        <item>YEOLEKAR BIJAL MAHESHBHA</item>
+        <item>YOGENDRA SOLANKI</item>
+        <item>Yogesh Mishra</item>
+        <item>YOGESHBHAI  R SOLNKI</item>
+        <item>ZADFIYA RAJESH LABHUBHAI</item>
+        <item>ZALA JITENDRA KUMAR</item>
+        <item>ZALA YOGESH V</item>
+        <item>ZALA YOGESH VANRAJSINH</item>
+        <item>ZAVERI TANISH HEMAL</item>
+        </string-array>
+</resources>
